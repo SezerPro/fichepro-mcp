@@ -2,13 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.SezerPro/fichepro-mcp",
   "title": "FichePro for Claude",
-  "description": "E-commerce autonomy for dropshippers — listings, SEO, catalog audit, niche & ad intel.",
-  "version": "1.2.0",
+  "description": "Writes and SEO-scores product listings from the seller's facts, for 7 marketplaces in 10 languages.",
+  "version": "1.3.0",
   "repository": {
     "url": "https://github.com/SezerPro/fichepro-mcp",
     "source": "github"
   },
-  "websiteUrl": "https://fichepro.ai/mcp",
+  "websiteUrl": "https://www.fichepro.ai/mcp",
   "remotes": [
     {
       "type": "streamable-http",
